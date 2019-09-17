@@ -1,4 +1,5 @@
-# Open-Health
+# Team Name:
+1.6 Open Health
 
 # Team Members:
 Gustaf Hård af Segerstad, Johan Lindskog,Leif Mankowitz, Ahmed Mahmoud
