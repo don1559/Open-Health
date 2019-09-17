@@ -9,6 +9,7 @@ Meical Health records are not accisbile across different health care providers. 
 
 # Solution:
 Open health – a platform to enable democratization of healthcare data.
+
 We provide a secure unified platform to share healthcare records between different parts of the healthcare system with user permission.
 Enable the user to upload electronic records from smart devices, watches, sensors.
 Enable the user to share his data with third parties with user permission.
